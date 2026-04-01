@@ -8,5 +8,6 @@ Projekt für den Informatikunterricht an der **Brecht-Schule Hamburg**. Ein Prog
 Ein Lehrer unserer Schule trägt nach dem Unterricht in der UI ein, wie aufgeräumt die Klasse ist. (Stühle hochgestellt, gefegt, Licht aus, etc.). Diese Daten werden über einen längeren Zeitraum gesammelt und dann visuell wiedergegeben. 
 
 <img src="assets/images/Beispiel.png" alt="description" width="800">
+Ein mit Streamlit erstellter Graph, Beispiel für die visuelle Darstellung von den gesammelten Daten
 
 merken: https://teachablemachine.withgoogle.com/
