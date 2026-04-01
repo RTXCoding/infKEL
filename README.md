@@ -1,7 +1,12 @@
 # infKEL
-##Allgemein (Leander)
+## Allgemein (Leander)
 
-Projekt für den Informatikunterricht an der Brecht-Schule Hamburg. Programm zum analysieren von Bildern mit Hilfe von machine learning. Unser Projekt soll mit einem trainiert ml Modell und ein mit Streamlit erstelltes UI, um verschiedene Müllsorten in einer Web-App zutrennen. 
+Projekt für den Informatikunterricht an der **Brecht-Schule Hamburg**. Ein Programm zum sammeln von Daten und der Verarbeitung. Dies passiert in einer Web-APP mit einem Nutzerfreundlichen UI.
 
+## Welche Daten werden gesammelt? (Leander)
+
+Ein Lehrer unserer Schule trägt nach dem Unterricht in der UI ein, wie aufgeräumt die Klasse ist. (Stühle hochgestellt, gefegt, Licht aus, etc.). Diese Daten werden über einen längeren Zeitraum gesammelt und dann visuell wiedergegeben. 
+
+<img src="assets/img.png" alt="description" width="800">
 
 merken: https://teachablemachine.withgoogle.com/
