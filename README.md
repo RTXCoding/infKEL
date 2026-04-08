@@ -11,3 +11,4 @@ Ein Lehrer unserer Schule trägt nach dem Unterricht in der UI ein, wie aufgerä
 Ein mit Streamlit erstellter Graph, Beispiel für die visuelle Darstellung von den gesammelten Daten
 
 merken: https://teachablemachine.withgoogle.com/
+Streamlit ausführen:  python -m streamlit run <dateiname>.py
