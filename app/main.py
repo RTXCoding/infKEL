@@ -6,6 +6,8 @@ st.write("Lade ein Bild hoch und die KI erkennt automatisch, in welche Tonne der
 
 st.divider()
 
+col_upload, _ = st.columns(2)
+
 with col_upload:
     st.subheader("Bild hochladen")
     uploaded = st.file_uploader(
